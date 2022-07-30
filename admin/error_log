@@ -1,0 +1,96 @@
+[11-Jul-2022 17:46:51 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[11-Jul-2022 17:46:51 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/peteuzpj/public_html/config.php on line 7
+[11-Jul-2022 17:46:51 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/peteuzpj/public_html/config.php on line 7
+[11-Jul-2022 17:46:52 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/peteuzpj/public_html/config.php on line 7
+[11-Jul-2022 17:57:20 America/New_York] PHP Notice:  Undefined index: image in /home/peteuzpj/public_html/admin/devotional.php on line 23
+[11-Jul-2022 18:35:26 America/New_York] PHP Notice:  Undefined index: image in /home/peteuzpj/public_html/admin/gallery.php on line 110
+[11-Jul-2022 18:35:26 America/New_York] PHP Notice:  Undefined index: title in /home/peteuzpj/public_html/admin/gallery.php on line 112
+[11-Jul-2022 18:35:36 America/New_York] PHP Notice:  Undefined index: image in /home/peteuzpj/public_html/admin/gallery.php on line 110
+[11-Jul-2022 18:35:36 America/New_York] PHP Notice:  Undefined index: title in /home/peteuzpj/public_html/admin/gallery.php on line 112
+[12-Jul-2022 03:52:30 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 03:58:59 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 03:59:48 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 04:26:22 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 04:59:28 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 05:47:13 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 07:19:48 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/gallery.php on line 3
+[12-Jul-2022 07:24:38 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[12-Jul-2022 07:30:49 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/gallery.php on line 3
+[12-Jul-2022 14:49:54 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[13-Jul-2022 16:18:40 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:40 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:40 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:40 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:41 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:41 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:41 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:41 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:47 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:53 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:53 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:53 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:53 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:54 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:54 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:54 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/peteuzpj/public_html/admin/index.php on line 4
+[13-Jul-2022 16:18:54 America/New_York] PHP Notice:  Undefined variable: cxn in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:18:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/peteuzpj/public_html/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/peteuzpj/public_html/admin/index.php on line 129
+[13-Jul-2022 16:19:16 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[13-Jul-2022 16:44:22 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[13-Jul-2022 23:49:36 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 00:58:36 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 01:43:50 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 01:49:16 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 01:53:01 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 04:09:08 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 04:09:09 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 04:40:58 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[14-Jul-2022 05:23:29 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[15-Jul-2022 08:47:36 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[16-Jul-2022 02:16:10 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[16-Jul-2022 04:00:37 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[16-Jul-2022 05:18:49 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[17-Jul-2022 22:05:39 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[18-Jul-2022 02:56:00 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[19-Jul-2022 03:14:54 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[19-Jul-2022 21:35:25 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[19-Jul-2022 21:35:25 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3
+[21-Jul-2022 06:06:51 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[26-Jul-2022 08:01:12 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 05:26:00 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 05:37:30 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 05:54:39 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 05:59:43 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 06:01:43 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/index.php on line 3
+[27-Jul-2022 06:30:11 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/gallery.php on line 3
+[28-Jul-2022 07:29:13 America/New_York] PHP Notice:  Undefined index: ADMIN in /home/peteuzpj/public_html/admin/devotional.php on line 3

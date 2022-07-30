@@ -1,0 +1,306 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.container-fluid{
+    padding: 60px 5%;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+a:hover{
+    color: inherit;
+    text-decoration: none;
+}
+
+/* for navbar  */
+.navbar.container-fluid{
+    padding: 17px 5%;
+}
+.navbar{
+    background-color: whitesmoke;
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+    border-bottom: solid 1px #C0C0C0;
+}
+.navbar li{
+    font-weight: 400;
+}
+
+/* for sidebar  */
+.offcanvas{
+    width: 300px;
+}
+.offcanvas li{
+    text-align: center;
+    border: 1px solid #C0C0C0;
+    margin-bottom: 20px;
+}
+/* end of sidebar  */
+
+
+#landing{
+    height: 100vh;
+    width: 100vw;
+    background: url("../img/iles.jpg") center top no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.first{
+    display: block;
+}
+.second{
+    display: none;
+}
+
+.main-title{
+    text-align: right;
+    font-weight: 800;
+    font-size: 60px;
+    color: #ff9126;
+    background-color: rgba(0, 0, 0, 0.185);
+}
+
+#welcome{
+    background-color: #F9F7F5;
+}
+#welcome img{
+    height: 60vh;
+    margin: 50px 0;
+}
+#welcome h3{
+    font-size: 30px;
+}
+#welcome p{
+    text-align: justify;
+    color: #6A7A83;
+}
+#welcome button{
+    color: white;
+    border: none;
+    width: 200px;
+    padding: 15px 0;
+    border-radius: 9px;
+    background: #ff9126;
+    font-size: 20px;
+}
+
+#latest{
+    background-color:  #192531;
+    color: white;
+}
+#latest h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.message-container{
+    border: 1px solid #ff9126;
+    border-radius: 20px;
+    padding: 50px 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#latest h4{
+    font-size: 20px;
+}
+#latest h5{
+    font-weight: 400;
+    font-size: 18px;
+}
+#latest p{
+    font-weight: 300;
+}
+#latest h3{
+    font-weight: 700;
+    font-size: 25px;
+    text-align: right;
+}
+
+#achieve .ctn{
+    border: solid 1px #192531;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    /* align-items: center; */
+    justify-content: center;
+    height: 230px;
+    border-radius: 3px;
+}
+
+#achieve img{
+    height: 230px;
+    width: 200px;
+}
+
+#nugget,
+#gallery,
+#devotional{
+    padding-top: 70px;
+}
+#nugget h2,
+#gallery h2,
+#devotional h2{
+    font-weight: 800;
+    font-size: 30px;
+}
+#nugget .ctn{
+    border: solid 1px #192531;
+    /* padding: 15px; */
+    margin-bottom: 20px;
+    font-size: 13px;
+    width: 335px;
+    margin: 0 auto; 
+}
+#nugget .cttn{
+    text-align: center;
+    margin: 12px 8px;
+    height: 300px;
+    width: 320px;
+}
+
+#nugget .title{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.856);
+    color: white;
+    padding: 7px 0;
+}
+
+#nugget .socials{
+    padding: 10px 0;
+}
+
+#nugget .ctrn{
+    padding: 15px 10px;
+    
+}
+#nugget .csn{
+    border: solid 1px #192531;
+    /* padding: 15px; */
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+#nugget .cstn{
+    text-align: center;
+    margin: 12px 8px;
+    border: solid 1px black;
+    background-image: linear-gradient(45deg, #6e80e3, rgb(235, 150, 150));
+    padding: 40px 30px;
+    border-radius: 8px;
+    font-size: 8px;
+}
+
+#login{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#login .card{
+    max-width: 500px;
+    width: 90vw;
+    padding-top: 60px;
+    background-color: rgb(161, 159, 159);
+}
+
+.fef{
+    color: #6e80e3;
+    text-decoration: underline;
+}
+
+.fef:hover{
+    cursor: pointer;
+}
+
+#gallery{
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.753); 
+    color: rgba(255, 255, 255, 0.623);
+}
+
+#gallery .card{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.527);
+}
+.card img{
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+#devotional{
+    font-weight: 400;
+}
+.intro-header{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#devotional p{
+    text-align: justify;
+}
+.row.s{
+    margin-bottom: 50px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.247);
+}
+.card .logo2{
+    height: 60px;
+    width: 60px
+}
+
+#footer{
+    background-color: #192531;
+    color: rgba(255, 255, 255, 0.623);
+}
+
+#footer p{
+    margin-left: 30px;
+}
+
+
+/* laptop screen above  */
+@media(min-width: 920px){
+
+}
+
+/* css specifically for mobile view / phone screen  */
+@media(max-width: 470px){
+    .main-title{
+        font-size: 45px;
+    }
+    #welcome h3{
+        text-align: center;
+    }
+    .first{
+        display: none;
+    }
+    .second{
+        display: block;
+    }
+    #latest h2{
+        font-size: 25px;
+    }
+    #latest audio{
+        width: 90vw;
+    }
+    .card img{
+        height: 300px;
+        width: 300px;
+    }
+}
